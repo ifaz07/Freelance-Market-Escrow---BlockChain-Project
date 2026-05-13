@@ -34,15 +34,15 @@ MetaMask transaction support
 Auto-refresh using blockchain events
 Arbiter admin panel for dispute management
 
-# Install dependencies
+Install dependencies
 npm install
 
-# Start Ganache
+Start Ganache
 
-# Compile contracts
+Compile contracts
 truffle compile
 
-# Deploy contracts
+Deploy contracts
 truffle migrate
 
 # Start frontend
